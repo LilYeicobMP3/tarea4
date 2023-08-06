@@ -1,0 +1,49 @@
+h1.horarios {
+    color: rgb(226, 220, 236);
+}
+
+
+
+
+
+td.horarios{
+    color: rgb(255, 123, 0);
+}
+
+td.uno {
+    color: rgb(200, 255, 0);
+}
+
+td.dos {
+    color: rgba(19, 161, 31, 0.801);
+}
+
+
+td.tres {
+    color: rgb(81, 255, 0);
+}
+
+td.cuatro {
+    color: rgb(0, 255, 213);
+}
+
+
+td.cinco {
+    color: rgb(0, 110, 255);
+}
+
+td.seis {
+    color: rgb(111, 0, 255);
+}
+
+
+td.siete {
+    color: rgb(255, 0, 149);
+}
+
+
+
+body {
+    background-image : url(../img/fondo.jpg) ;
+    background-size: cover;
+}
